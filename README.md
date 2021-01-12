@@ -1,2 +1,2 @@
 # Machine-Learning
-Implement Artificial Neural Network and K-Menas algorithm from scratch
+Implement Artificial Neural Network and K-Means algorithm from scratch
